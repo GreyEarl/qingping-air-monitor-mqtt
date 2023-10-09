@@ -37,5 +37,7 @@ For this you need to download either Qingping+ or the Qingping IoT app on your A
 
 ![image](https://github.com/GreyEarl/qingping-air-monitor-mqtt/assets/33351068/9e7a60d1-ee03-4491-9907-66816fd28dce)
 
-You should be done now. If you don't see activity from the device to your MQTT server, reboot the device. Note! If you change the configuration from now on, you need to factory reset the device to apply the changes.
+You should be done now. If you don't see activity from the device to your MQTT server, reboot the device. You can use MQTT Explorer to validate and/or troubleshoot.
+
+**Note! If you change the configuration from now on, you need to factory reset the device to apply the changes.**
 
