@@ -25,7 +25,7 @@ For this you need to download either Qingping+ or the Qingping IoT app on your A
    
 ![image](https://github.com/GreyEarl/qingping-air-monitor-mqtt/assets/33351068/3dc2df5d-ecba-42a4-9164-897d9b88d98e)
 
-5. Click on the edit button in the 'Self-built MQTT information' section and fill in according to your situation.
+5. Click on the edit button in the 'Self-built MQTT information' section and fill in according to your situation. The MAC address is meant to be used as an identifier if you have multiple devices.
 
 ![image](https://github.com/GreyEarl/qingping-air-monitor-mqtt/assets/33351068/ee11872a-9cc5-4d79-9951-9948facb8a59)
 
