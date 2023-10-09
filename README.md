@@ -3,7 +3,7 @@ Use local MQTT functionality of the Qingping Air Monitor
 
 The goal is to have a fully functioning device without the need or dependency of the cloud. For this to work the initial setup does need internet access to sync your MQTT settings with the device. At moment of writing there is no option to insert the settings via the GUI of the device.
 
-**Note** Make sure you have at least firmware 4.1.8_0267
+**Note!** ⚠️ Make sure you have at least firmware 4.1.8_0267
 
 ## Options
 There are two ways getting MQTT to work on your Qingping Air Monitor.
@@ -42,5 +42,5 @@ For this you need to download either Qingping+ or the Qingping IoT app on your A
 
 You should be done now. If you don't see activity from the device to your MQTT server, reboot the device. You can use MQTT Explorer to validate and/or troubleshoot. On the device you can also check Settings > Private Cloud. Here you can see the connection status to your MQTT server.
 
-**Note! If you change the configuration from now on, you need to factory reset the device to apply the changes.**
+**Note! ⚠️ If you change the configuration from now on, you need to factory reset the device to apply the changes.**
 
