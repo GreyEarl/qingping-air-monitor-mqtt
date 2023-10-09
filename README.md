@@ -42,5 +42,7 @@ For this you need to download either Qingping+ or the Qingping IoT app on your A
 
 You should be done now. If you don't see activity from the device to your MQTT server, reboot the device. You can use MQTT Explorer to validate and/or troubleshoot. On the device you can also check Settings > Private Cloud. Here you can see the connection status to your MQTT server.
 
+9. You can now disable internet access or block the DNS requests the device is sending. Be aware, the device could be generating a lot of DNS requests if it senses no internet connection. I have given this as feedback to Qingping. Perhaps in later firmware updates the device will behave differently.
+
 **Note! ⚠️ If you change the configuration from now on, you need to factory reset the device to apply the changes.**
 
