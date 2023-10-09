@@ -25,16 +25,16 @@ For this you need to download either Qingping+ or the Qingping IoT app on your A
    
 ![image](https://github.com/GreyEarl/qingping-air-monitor-mqtt/assets/33351068/3dc2df5d-ecba-42a4-9164-897d9b88d98e)
 
-6. Click on the edit button in the 'Self-built MQTT information' section and fill in according to your situation.
-7. 
+5. Click on the edit button in the 'Self-built MQTT information' section and fill in according to your situation.
+
 ![image](https://github.com/GreyEarl/qingping-air-monitor-mqtt/assets/33351068/ee11872a-9cc5-4d79-9951-9948facb8a59)
 
-
-
-8. Now go back to the 'Private Access Config' and select Device.
+6. Now go back to the 'Private Access Config' and select Device.
 ![image](https://github.com/GreyEarl/qingping-air-monitor-mqtt/assets/33351068/ed3084d2-536a-4985-9e2d-c2f8f44005a8)
-9. Add a new device, select your device model and you should see your newly added device as paired earlier in the app.
-10. Continue and select the configuration you created before.
+
+7. Add a new device, select your device model and you should see your newly added device as paired earlier in the app.
+8. Continue and select the configuration you created before.
+
 ![image](https://github.com/GreyEarl/qingping-air-monitor-mqtt/assets/33351068/9e7a60d1-ee03-4491-9907-66816fd28dce)
 
 You should be done now. If you don't see activity from the device to your MQTT server, reboot the device. Note! If you change the configuration from now on, you need to factory reset the device to apply the changes.
