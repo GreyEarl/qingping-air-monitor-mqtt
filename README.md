@@ -46,3 +46,7 @@ You can now disable internet access or block the DNS requests the device is send
 
 **Note! ⚠️ If you change the configuration from now on, you need to factory reset the device to apply the changes.**
 
+## Home Assistant integration
+For Home Assistant you can create sensors based on the MQTT integration. To overcome these additional configuration @bob-tm made an integration for Home Assistant:
+https://github.com/bob-tm/ha-qingping
+
